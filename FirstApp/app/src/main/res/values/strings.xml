@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="slack_username_temitechy">Slack Username: @Temitechy</string>
+    <string name="username_temitechy">USERNAME: @Temitechy</string>
+    <string name="tracks_frontend_mobile">TRACKS: Frontend, Mobile</string>
+    <string name="name_mercy_inyang">NAME: Mercy Inyang</string>
+    <string name="email">EMAIL: mercinyang@gmail.com</string>
+</resources>
